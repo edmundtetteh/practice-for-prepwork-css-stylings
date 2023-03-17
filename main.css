@@ -1,37 +1,37 @@
 h1 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
-    font-weight: ;
-    text-decoration: ;
-    color: ;
-    background-color: ;
+    font-size: 1.6em;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    padding:1em 0em;
+    margin: 0em;
+    font-weight: bold ;
+    text-decoration: underline ;
+    color:hsl(30, 100%, 50%);
+    background-color: hsla(50, 33%, 25%, .75); ;
 }
 
 h2 {
-    font-size: ;
-    font-family: ;
-    padding: ;
-    margin: ;
+    font-size: 1em;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    padding: 0em;
+    margin:0em ;
     font-weight: ;
-    color: ;
-    background-color: ;
+    color: darkblue ;
+    background-color: hsl(333, 100%, 50%) ;
 }
 
 p {
-    font-family: ;
-    font-size: ;
-    padding: ;
-    margin: ;
-    color: ;
-    background-color: ;
+    font-family: Times, "Times New Roman", Georgia, serif;
+    font-size:1em;
+    padding:10px ;
+    margin:0px ;
+    color: rgb(158, 150, 142);
+    background-color: hsla(203, 100%, 50%, 0.345) ;
 }
 
 .logo {
     background-size: cover;
-    background-image: url();
-    background-color: ;
-    height: ;
-    width: ;
+    background-image: url('https://appacademy.github.io/styleguide/assets/logo/logo-emblem-black-1000.png');
+    background-color: red ;
+    height: 7em;
+    width: 7em;
 }
